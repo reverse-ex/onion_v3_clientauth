@@ -1,2 +1,1 @@
-# onion_v3_clientauth
-client auth v3 onion
+# clientauth v3 onion
